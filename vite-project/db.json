@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "fname": "jhdghf",
+      "lname": "ssss",
+      "email": "jayasreethupalli@gmail.com",
+      "password": "firstlas",
+      "cpassword": "firstlas",
+      "id": 1
+    },
+    {
+      "fname": "jhdghf",
+      "lname": "yhujkl;",
+      "email": "kjsdgdg@gamil.com",
+      "password": "firstlast",
+      "cpassword": "firstlast",
+      "id": 2
+    },
+    {
+      "fname": "jhdghf",
+      "lname": "ssss",
+      "email": "jayasreethupalli@gmail.com",
+      "password": "12345678",
+      "cpassword": "12345678",
+      "id": 3
+    },
+    {
+      "fname": "varsha",
+      "lname": "beeneedi",
+      "email": "varsha@gmail.com",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 4
+    },
+    {
+      "fname": "divya",
+      "lname": "sree",
+      "email": "122333343434@gdr.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 5
+    },
+    {
+      "fname": "divya",
+      "lname": "jaya",
+      "email": "divyajaya@gmail.com",
+      "password": "divyajaya",
+      "cpassword": "divyajaya",
+      "id": 6
+    },
+    {
+      "fname": "jaya",
+      "lname": "sree",
+      "email": "sreethupalli64@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "id": 7
+    },
+    {
+      "fname": "Aititude",
+      "lname": "dfsad",
+      "email": "aititude@gmail.com",
+      "password": "aititude",
+      "cpassword": "aititude",
+      "id": 8
+    },
+    {
+      "fname": "pushpa",
+      "lname": "raj",
+      "email": "pushparaj@gmail.com",
+      "password": "pushpa",
+      "cpassword": "pushpa",
+      "id": 9
+    },
+    {
+      "fname": "chintu",
+      "lname": "sree",
+      "email": "vs@gmail.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 10
+    },
+    {
+      "fname": "jaya",
+      "lname": "sree",
+      "email": "jayasreethupalli@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "id": 11
+    },
+    {
+      "fname": "sree",
+      "lname": "sreeee",
+      "email": "jayasreethupalli@gmail.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 12
+    },
+    {
+      "fname": "varsha",
+      "lname": "ssss",
+      "email": "kjsdgdg@gamil.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 13
+    },
+    {
+      "fname": "gopi",
+      "lname": "p",
+      "email": "gopi@aititude.in",
+      "password": "gopi@1729",
+      "cpassword": "gopi@1729",
+      "id": 14
+    },
+    {
+      "fname": "jaya",
+      "lname": "chintu",
+      "email": "jayachintu@gmail.com",
+      "password": "123123",
+      "cpassword": "123123",
+      "id": 15
+    },
+    {
+      "fname": "nithin",
+      "lname": "reddy",
+      "email": "nithinreddy@gmail.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 16
+    },
+    {
+      "fname": "jaya",
+      "lname": "p",
+      "email": "varsha@gmail.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 17
+    },
+    {
+      "fname": "jaya",
+      "lname": "ssss",
+      "email": "jayasreethupalli@gmail.com",
+      "password": "121212",
+      "cpassword": "121212",
+      "id": 18
+    }
+  ]
+}
